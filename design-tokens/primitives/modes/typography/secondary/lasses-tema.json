@@ -1,5 +1,5 @@
 {
-  "test-nytt-default-theme": {
+  "lasses-tema": {
     "font-family": {
       "$type": "fontFamilies",
       "$value": "Inter"

@@ -3,284 +3,284 @@
     "accent": {
       "1": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.1}"
+        "$value": "{lasses-tema.accent.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.2}"
+        "$value": "{lasses-tema.accent.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.3}"
+        "$value": "{lasses-tema.accent.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.4}"
+        "$value": "{lasses-tema.accent.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.5}"
+        "$value": "{lasses-tema.accent.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.6}"
+        "$value": "{lasses-tema.accent.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.7}"
+        "$value": "{lasses-tema.accent.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.8}"
+        "$value": "{lasses-tema.accent.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.9}"
+        "$value": "{lasses-tema.accent.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.10}"
+        "$value": "{lasses-tema.accent.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.11}"
+        "$value": "{lasses-tema.accent.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.12}"
+        "$value": "{lasses-tema.accent.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.13}"
+        "$value": "{lasses-tema.accent.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.14}"
+        "$value": "{lasses-tema.accent.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.15}"
+        "$value": "{lasses-tema.accent.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.accent.16}"
+        "$value": "{lasses-tema.accent.16}"
       }
     },
     "neutral": {
       "1": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.1}"
+        "$value": "{lasses-tema.neutral.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.2}"
+        "$value": "{lasses-tema.neutral.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.3}"
+        "$value": "{lasses-tema.neutral.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.4}"
+        "$value": "{lasses-tema.neutral.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.5}"
+        "$value": "{lasses-tema.neutral.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.6}"
+        "$value": "{lasses-tema.neutral.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.7}"
+        "$value": "{lasses-tema.neutral.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.8}"
+        "$value": "{lasses-tema.neutral.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.9}"
+        "$value": "{lasses-tema.neutral.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.10}"
+        "$value": "{lasses-tema.neutral.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.11}"
+        "$value": "{lasses-tema.neutral.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.12}"
+        "$value": "{lasses-tema.neutral.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.13}"
+        "$value": "{lasses-tema.neutral.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.14}"
+        "$value": "{lasses-tema.neutral.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.15}"
+        "$value": "{lasses-tema.neutral.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.neutral.16}"
+        "$value": "{lasses-tema.neutral.16}"
       }
     },
     "brand1": {
       "1": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.1}"
+        "$value": "{lasses-tema.brand1.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.2}"
+        "$value": "{lasses-tema.brand1.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.3}"
+        "$value": "{lasses-tema.brand1.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.4}"
+        "$value": "{lasses-tema.brand1.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.5}"
+        "$value": "{lasses-tema.brand1.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.6}"
+        "$value": "{lasses-tema.brand1.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.7}"
+        "$value": "{lasses-tema.brand1.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.8}"
+        "$value": "{lasses-tema.brand1.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.9}"
+        "$value": "{lasses-tema.brand1.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.10}"
+        "$value": "{lasses-tema.brand1.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.11}"
+        "$value": "{lasses-tema.brand1.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.12}"
+        "$value": "{lasses-tema.brand1.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.13}"
+        "$value": "{lasses-tema.brand1.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.14}"
+        "$value": "{lasses-tema.brand1.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.15}"
+        "$value": "{lasses-tema.brand1.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand1.16}"
+        "$value": "{lasses-tema.brand1.16}"
       }
     },
     "brand2": {
       "1": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.1}"
+        "$value": "{lasses-tema.brand2.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.2}"
+        "$value": "{lasses-tema.brand2.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.3}"
+        "$value": "{lasses-tema.brand2.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.4}"
+        "$value": "{lasses-tema.brand2.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.5}"
+        "$value": "{lasses-tema.brand2.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.6}"
+        "$value": "{lasses-tema.brand2.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.7}"
+        "$value": "{lasses-tema.brand2.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.8}"
+        "$value": "{lasses-tema.brand2.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.9}"
+        "$value": "{lasses-tema.brand2.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.10}"
+        "$value": "{lasses-tema.brand2.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.11}"
+        "$value": "{lasses-tema.brand2.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.12}"
+        "$value": "{lasses-tema.brand2.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.13}"
+        "$value": "{lasses-tema.brand2.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.14}"
+        "$value": "{lasses-tema.brand2.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.15}"
+        "$value": "{lasses-tema.brand2.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{test-nytt-default-theme.brand2.16}"
+        "$value": "{lasses-tema.brand2.16}"
       }
     }
   },
   "font-family": {
     "$type": "fontFamilies",
-    "$value": "{test-nytt-default-theme.font-family}"
+    "$value": "{lasses-tema.font-family}"
   },
   "font-weight": {
     "medium": {
       "$type": "fontWeights",
-      "$value": "{test-nytt-default-theme.font-weight.medium}"
+      "$value": "{lasses-tema.font-weight.medium}"
     },
     "semibold": {
       "$type": "fontWeights",
-      "$value": "{test-nytt-default-theme.font-weight.semibold}"
+      "$value": "{lasses-tema.font-weight.semibold}"
     },
     "regular": {
       "$type": "fontWeights",
-      "$value": "{test-nytt-default-theme.font-weight.regular}"
+      "$value": "{lasses-tema.font-weight.regular}"
     }
   },
   "border-radius": {
@@ -310,7 +310,7 @@
     },
     "base": {
       "$type": "dimension",
-      "$value": "4"
+      "$value": "9999"
     },
     "scale": {
       "$type": "dimension",
